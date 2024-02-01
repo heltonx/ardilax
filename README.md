@@ -9,6 +9,8 @@ funcions 1 and 2 are scans, like nmap, but just for main ports. Afters that, the
 
 Instructions:
 
+git clone https://github.com/heltonx/ardilax
+
 If you dont have pip and module requests installed, use following commands: 
 sudo apt install python3-pip
 pip3 install requests
